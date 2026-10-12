@@ -1,15 +1,11 @@
-I write Python, TypeScript and Swift and build tools on top of LLMs: document search, work automation, speech recognition.
+
 
 ## Stack
 
-[![Stack](https://skillicons.dev/icons?i=python,fastapi,docker,k8s,ts)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=python,fastapi,postgresql,sqlalchemy,redis,rabbitmq,mongodb,kafka,celery,docker,k8s,ts)](https://skillicons.dev)
 
 ## Working on
 
-- RAG search over documents that runs without a GPU
-- A CLI that connects Jira to LLMs (GigaChat or OpenAI-compatible models)
-- Russian speech recognition with Whisper
-- iOS and macOS apps
 
 ## Contact
 
