@@ -11,4 +11,5 @@ I like automating the paths users take so they don’t have to do the routine by
 ## Contact
 
 [![Telegram](https://img.shields.io/badge/Telegram-@saartman-26A5E4?logo=telegram&logoColor=white)](https://t.me/saartman)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/79119860100)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-glebfedorov21-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glebfedorov21)
