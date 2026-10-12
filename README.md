@@ -1,11 +1,12 @@
+## Hi, there! 👋
 
+I’ve been a developer for 4 years, in B2B deeptech and at an engineering startup. I start solutions myself and see them through, based on what the company and its clients need. I can pick up an unfamiliar domain quickly and get a useful result out of it. Outside work I contribute to side projects and take on interesting ideas whenever they let me try something new.
+
+I like automating the paths users take so they don’t have to do the routine by hand. Right now that means AI agents, and mostly how much context I can give them.
 
 ## Stack
 
-[![Stack](https://skillicons.dev/icons?i=python,fastapi,postgresql,sqlalchemy,redis,rabbitmq,mongodb,kafka,celery,docker,k8s,ts)](https://skillicons.dev)
-
-## Working on
-
+[![Stack](https://skillicons.dev/icons?i=python,fastapi,postgresql,redis,rabbitmq,mongodb,kafka,docker,k8s,ts)](https://skillicons.dev)
 
 ## Contact
 
