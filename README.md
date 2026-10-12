@@ -2,7 +2,7 @@ I write Python, TypeScript and Swift and build tools on top of LLMs: document se
 
 ## Stack
 
-[![Stack](https://skillicons.dev/icons?i=python,ts,swift,git)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=python,fastapi,docker,k8s,ts)](https://skillicons.dev)
 
 ## Working on
 
