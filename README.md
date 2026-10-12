@@ -13,8 +13,5 @@ I write Python, TypeScript and Swift and build tools on top of LLMs: document se
 
 ## Contact
 
-<!-- Uncomment and fill in your links:
-- Telegram: [@nick](https://t.me/nick)
-- LinkedIn: [Gleb Fedorov](https://www.linkedin.com/in/nick)
-- Email: you@example.com
--->
+[![Telegram](https://img.shields.io/badge/Telegram-@saartman-26A5E4?logo=telegram&logoColor=white)](https://t.me/saartman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-glebfedorov21-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glebfedorov21)
