@@ -1,22 +1,20 @@
-# Привет, я Глеб 👋
+I write Python, TypeScript and Swift and build tools on top of LLMs: document search, work automation, speech recognition.
 
-Пишу на Python, TypeScript и Swift. Делаю инструменты на LLM: поиск по документам, автоматизацию рабочих задач, распознавание речи.
-
-## Стек
+## Stack
 
 [![Stack](https://skillicons.dev/icons?i=python,ts,swift,git)](https://skillicons.dev)
 
-## Над чем работаю
+## Working on
 
-- RAG-поиск по документам, работает без GPU
-- CLI, который связывает Jira с LLM (GigaChat или OpenAI-совместимые модели)
-- Распознавание русской речи на Whisper
-- Приложения для iOS и macOS
+- RAG search over documents that runs without a GPU
+- A CLI that connects Jira to LLMs (GigaChat or OpenAI-compatible models)
+- Russian speech recognition with Whisper
+- iOS and macOS apps
 
-## Контакты
+## Contact
 
-<!-- Раскомментируй и впиши свои ссылки:
+<!-- Uncomment and fill in your links:
 - Telegram: [@nick](https://t.me/nick)
 - LinkedIn: [Gleb Fedorov](https://www.linkedin.com/in/nick)
-- Почта: you@example.com
+- Email: you@example.com
 -->
